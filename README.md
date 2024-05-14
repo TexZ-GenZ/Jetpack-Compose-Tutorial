@@ -2,12 +2,15 @@ The Learn Together app displays a list of articles about several Jetpack librari
 
 In this exercise, I build a screen for the app, which displays a tutorial for Jetpack Compose. I use the image and string resources provided in the Resources section for this problem.
 
-Final screenshot
+
 ![image](https://github.com/TexZ-GenZ/Jetpack-Compose-Tutorial/assets/90178250/79e16ec0-40ee-4c98-a7e4-8d7131e82d4f)
+
+Final screenshot
 
 UI specifications
 Follow this UI specification:
 ![image](https://github.com/TexZ-GenZ/Jetpack-Compose-Tutorial/assets/90178250/d665d23f-87e4-4d03-b668-fe743ede21ad)
+
 
 UI specification for building the Compose article screen.
 
