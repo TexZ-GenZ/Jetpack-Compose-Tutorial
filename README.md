@@ -3,12 +3,11 @@ The Learn Together app displays a list of articles about several Jetpack librari
 In this exercise, I build a screen for the app, which displays a tutorial for Jetpack Compose. I use the image and string resources provided in the Resources section for this problem.
 
 Final screenshot
-
-c8c16974d0aef074.png
+https://developer.android.com/static/codelabs/basic-android-kotlin-compose-composables-practice-problems/img/c8c16974d0aef074_960.png
 
 UI specifications
 Follow this UI specification:
-
+https://developer.android.com/static/codelabs/basic-android-kotlin-compose-composables-practice-problems/img/905139e48ed11bee_960.png
 UI specification for building the Compose article screen.
 
 Set the image to fill the entire screen's width.
